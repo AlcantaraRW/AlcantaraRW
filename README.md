@@ -1,16 +1,28 @@
-### Hi there 👋
+# Rafael William Alcântara
 
+- 💻 Passionate software developer since 2012.
+- 👪 Full-time husband and father;
+- 🎮 Free-time Xbox gamer;
+- 🥁 Drummer;
+- 🎸 Metalhead.
+
+🌐 Some of the techs I'm interested in:
+- C#;
+- .NET Core;
+- JavaScript;
+- TypeScript;
+- Node.js;
+- ReactJS;
+- React Native;
+- Unity.
+
+📱 Apps published on Google Play:
+- [Tá Emprestado!](https://play.google.com/store/apps/details?id=com.alcantararw.taemprestado)
 <!--
-**AlcantaraRW/AlcantaraRW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Precision;
+- Primordium Memory Game;
 -->
+---
+
+[![Linkedin Badge](https://img.shields.io/badge/-AlcantaraRW-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlcantaraRW)](https://www.linkedin.com/in/AlcantaraRW)
+[![Xbox Badge](https://img.shields.io/badge/-AlcantaraRW-success?style=flat-square&logo=Xbox&logoColor=white&link=https://www.trueachievements.com/gamer/AlcantaraRW)](https://www.trueachievements.com/gamer/AlcantaraRW)
