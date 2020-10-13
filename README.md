@@ -19,6 +19,7 @@
 
 🌐 Apps published on Google Play:
 - 📱 [Tá Emprestado!](https://play.google.com/store/apps/details?id=com.alcantararw.taemprestado)
+- 📱 [Contador de Dinheiro](https://play.google.com/store/apps/details?id=com.alcantararw.contadordedinheiro)
 <!--
 - 🎮 Primordium Memory Game;
 - 🎮 Precision;
