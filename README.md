@@ -20,10 +20,7 @@
 🌐 Apps published on Google Play:
 - 📱 [Tá Emprestado!](https://play.google.com/store/apps/details?id=com.alcantararw.taemprestado)
 - 📱 [Contador de Dinheiro](https://play.google.com/store/apps/details?id=com.alcantararw.contadordedinheiro)
-<!--
-- 🎮 Primordium Memory Game;
-- 🎮 Precision;
--->
+- 🎮 [Emoji Memory Game](https://play.google.com/store/apps/details?id=com.primordiumgamestudio.emojimemorygame)
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlcantaraRW-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AlcantaraRW)](https://www.linkedin.com/in/AlcantaraRW)
